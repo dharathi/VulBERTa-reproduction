@@ -6,5 +6,5 @@ This repository contains the results of running the code from the research paper
 - Lack of a systematic attempt to detect novel 0-days vulnerabilities in open-source projects in-the-wild
 
 This repository contains:
-- src: code containing the execution of the model
+- src: repository containing all the code of execution of the model
 - summary.md: results obtained after the execution of the model
